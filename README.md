@@ -3,7 +3,7 @@
 #Q1
 
 ```
-in a manufacturing unit, there are n machines where the ith machine consumes power[i] amount bof power and produces quantity[i] number of goods. Find the maximum total quantity of goods that can be produced such that the total power consumed does not exceed maxPower if the machines used are chosen optimally.
+in a manufacturing unit, there are n machines where the ith machine consumes power[i] amount of power and produces quantity[i] number of goods. Find the maximum total quantity of goods that can be produced such that the total power consumed does not exceed maxPower if the machines used are chosen optimally.
 
 Example
 n=3
